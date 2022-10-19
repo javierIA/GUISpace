@@ -1,13 +1,10 @@
-from select import select
 import threading
 import time
 import tkinter as tk
-from turtle import st
 import customtkinter 
 import logging
 import schedule
 import pystray
-from PIL import Image, ImageTk
 from runtime import execute
 from pystray import Menu, MenuItem as item
 
